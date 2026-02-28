@@ -1,0 +1,32 @@
+cff-version: 1.0.1
+message: Please cite this software using these metadata.
+title: Martin Psicólogo
+authors:
+  - family-names: Borges
+    given-names: João Pedro de Moura
+  - family-names: Almeida
+    given-names: Karen Joilly Araujo Gregorio de
+  - family-names: Costa e Costa
+    given-names: Luiz Arthur
+  - family-names: Oliveira
+    given-names: Maria Clara Gomes Silva de
+  - family-names: Viana
+    given-names: Vinícius Simões
+  - name-suffix: Professora
+    affiliation: PUC Minas
+    family-names: Veloso
+    given-names: Eveline Alonso
+  - name-suffix: Professora
+    affiliation: PUC Minas
+    family-names: Baroni de Carvalho
+    given-names: Juliana Amaral
+keywords:
+  - gestão
+  - psicologia
+  - consultório
+  - agendamento
+  - financeiro
+repository-code: https://github.com/ICEI-PUC-Minas-PMGES-TI/pmg-es-2025-2-ti3-9545100-psicologo.git
+license: CC-BY-4.0
+version: 1.0.0
+date-released: 2025-12-22
